@@ -1,8 +1,0 @@
-class Utility{
-
-public static String getName(){
-	return "Devavrata";
-
-}
-
-}
