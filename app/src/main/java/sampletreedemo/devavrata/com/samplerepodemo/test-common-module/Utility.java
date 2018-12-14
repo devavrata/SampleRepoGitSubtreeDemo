@@ -11,6 +11,10 @@ public class Utility {
     public static String getName(){
         return "hello subtree";
     }
+
+    public static String getNumber(){
+        return "123";
+    }
 }
 
 
